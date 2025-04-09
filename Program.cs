@@ -1,2 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using jurnalmodul7_kelompok_7;
+
+DataMahasiswa103022300021.ReadJSON();
