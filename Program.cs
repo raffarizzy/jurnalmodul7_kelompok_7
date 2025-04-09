@@ -1,5 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
 using jurnalmodul7_kelompok_7;
 
-DataMahasiswa103022300021.ReadJSON();
-TeamMembers103022300021.ReadJSON();
+namespace jurnalmodul7_kelopok_7
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            DataMahasiswa103022300035.ReadJSON();
+            TeamMembers103022300035.ReadJSON();
+            GlossaryItem103022300035.ReadJSON();
+        }
+    }
+}
+
