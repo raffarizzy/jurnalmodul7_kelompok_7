@@ -2,3 +2,4 @@
 using jurnalmodul7_kelompok_7;
 
 DataMahasiswa103022300021.ReadJSON();
+TeamMembers103022300021.ReadJSON();
