@@ -1,0 +1,15 @@
+{
+   "firstName": "Raffa Rizky",
+   "lastName": "Febryan",
+   "gender": "Male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Cisasawi",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CCK2KAB4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CCK2FAB4", "name": "Arsitektur dan Desain Perangkat Lunak" }
+   ]
+}
