@@ -1,4 +1,4 @@
-﻿using jurnalmodul7_kelompok_7;
+using jurnalmodul7_kelompok_7;
 
 namespace jurnalmodul7_kelopok_7
 {
@@ -12,3 +12,4 @@ namespace jurnalmodul7_kelopok_7
         }
     }
 }
+
