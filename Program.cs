@@ -8,6 +8,7 @@ namespace jurnalmodul7_kelopok_7
         {
             DataMahasiswa103022300035.ReadJSON();
             TeamMembers103022300035.ReadJSON();
+            GlossaryItem103022300035.ReadJSON();
         }
     }
 }
