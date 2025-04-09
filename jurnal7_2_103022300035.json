@@ -1,0 +1,39 @@
+{
+  "members": [
+    {
+      "firstName": "Bagas",
+      "lastName": "Pratama",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022300035"
+    },
+    {
+      "firstName": "Frizam Dafa",
+      "lastName": "Maulana",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022300011"
+    },
+    {
+      "firstName": "Raffa Rizky",
+      "lastName": "Febrian",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022330138"
+    },
+    {
+      "firstName": "Riziq",
+      "lastName": "Rizwan",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022300119"
+    },
+    {
+      "firstName": "Naufal Muhammad",
+      "lastName": "Dzulfikar",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022300021"
+    }
+  ]
+}
