@@ -1,0 +1,25 @@
+{
+   "firstName": "Frizam",
+   "lastName": "Dafa Maulana",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Sukapura",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+    {
+      "code": "CCK2KAB4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CCK2FAB4",
+      "name": "Arsitektur dan Desain Perangkat Lunak"
+    },
+    {
+      "code": "CCK2HAB4",
+      "name": "Basis Data"
+    }
+   ]
+}
