@@ -55,7 +55,7 @@ namespace jurnalmodul7_kelompok_7
     {
         public static void ReadJSON()
         {
-            string filePath = "jurnal7_1_103022330138.json";
+            string filePath = @"../../../jurnal7_1_103022330138.json";
             string jsonString = File.ReadAllText(filePath);
 
             var options = new JsonSerializerOptions
